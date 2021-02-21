@@ -27,4 +27,9 @@ If a network consists of such an code, it also may had application called _demo_
 3. VGG19
 4. AlexNet
 5. GoogleNet
-6. Resnet
+6. RetinaNet
+7. Inseption
+8. SSD
+9. Resnet
+10. YOLOv4
+11. RefineDet
